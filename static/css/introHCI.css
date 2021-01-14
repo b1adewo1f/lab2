@@ -1,5 +1,4 @@
 /* applies to anything of class "example-class-selector" */
-
 .example-class-selector {
 	margin-top: 2em;
 }
@@ -8,6 +7,12 @@
 .example-class-selector p {
 	/* Colors are in hexadecimal: http://www.colorpicker.com/ */
 	color: #CC00AA;
+}
+.project {
+	margin-left: 20px;
+	background-color: #D0E8FF;
+	padding: 20px;
+	width: 525px;
 }
 
 /* this style exists to make it obvious that you've successfully linked
